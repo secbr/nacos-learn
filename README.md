@@ -12,6 +12,7 @@
 - 《[微服务的灵魂摆渡者——Nacos，来一篇原理全攻略](https://mp.weixin.qq.com/s/BIPdW34VKvp_Ced3nzUVvQ)》
 - 《[你也对阅读源码感兴趣，说说我是如何阅读Nacos源码的](https://mp.weixin.qq.com/s/4pVWPRKGwy9MpEzGL4rgLA)》
 - 《[Spring Cloud集成Nacos服务发现源码解析？翻了三套源码，保质保鲜！](https://mp.weixin.qq.com/s/JuzRf2E4AvdoQW4hrfJKVg)》
+- 《[学习Nacos？咱先把服务搞起来，实战教程]( https://mp.weixin.qq.com/s/CflYusFuOy5QstWQFLdWwg)》
 
 ## 基础知识点
 
