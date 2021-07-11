@@ -6,6 +6,9 @@
 
 内容首发于个人公众号“程序新视界”，关注获取第一手资料。
 
+
+![程序新视界](https://www.choupangxia.com/wp-content/uploads/2019/07/weixin.jpg)
+
 ## 文章列表
 
 - 1、《[要学习微服务的服务发现？先来了解一些科普知识吧](https://mp.weixin.qq.com/s/mZ-IVHDaJUOBykpBzVr5og)》
@@ -17,7 +20,7 @@
 - 7、《[微服务之吐槽一下Nacos日志的疯狂输出](https://mp.weixin.qq.com/s/SHd3SHlaH_uFyDFXSMWCiw)》
 - 8、《[一个实例，轻松演示Spring Cloud集成Nacos实例](https://mp.weixin.qq.com/s/3EQ1M_Z5Lk5Pyaisg6qp-w)》
 - 9、《[微服务：剖析一下源码，Nacos的健康检查竟如此简单](https://mp.weixin.qq.com/s/jcnQOXuyMvo-uhc2XeP01Q)》
--10、《[微服务架构：Nacos本地缓存 PK 微服务优雅下线](https://mp.weixin.qq.com/s/Ge6gN1wCsGI0tRtzK_AuyQ)》
+- 10、《[微服务架构：Nacos本地缓存 PK 微服务优雅下线](https://mp.weixin.qq.com/s/Ge6gN1wCsGI0tRtzK_AuyQ)》
 
 
 ## 基础知识点
